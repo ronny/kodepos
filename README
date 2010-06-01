@@ -1,0 +1,9 @@
+The Indonesian Post Office provides a list of all post codes in Indonesia
+here: http://kodepos.posindonesia.co.id/
+
+There were no easy way to get a list of all post codes.
+
+So I wrote some hackish code to download all pages, and then use a script to
+extract all postcodes from the pages into a CSV file.
+
+I don't include the pages here in the repository (they are about 87 MB).
